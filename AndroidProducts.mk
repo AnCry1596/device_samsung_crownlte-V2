@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_crownlte.mk
+    $(LOCAL_DIR)/infinity_crownlte.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_crownlte-eng \
-    derp_crownlte-user \
-    derp_crownlte-userdebug
+    infinity_crownlte-eng \
+    infinity_crownlte-user \
+    infinity_crownlte-userdebug
